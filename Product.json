@@ -51,7 +51,7 @@
     },
     {
       "name": "Coconut",
-      "price": 210,
+      "price": 25,
       "image": "pic/coco.jpg"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "Bag",
-      "price": 50,
+      "price": 199,
       "image": "pic/bag.jpg"
     }
   ]
