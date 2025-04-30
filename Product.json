@@ -1,4 +1,29 @@
 [
+  {
+    "name": "Samsung S24",
+    "price": 140000,
+    "image": "pic/samsung.jpg"
+  },
+  {
+    "name": "Laptop",
+    "price": 90000,
+    "image": "pic/laptop.jpg"
+  },
+  {
+    "name": "Mause",
+    "price": 250,
+    "image": "pic/mause.jpg"
+  },
+  {
+    "name": "Watch",
+    "price": 1000,
+    "image": "pic/watch.jpg"
+  },
+  {
+    "name": "Table",
+    "price": 2000,
+    "image": "pic/table.jpg"
+  },
     {
       "name": "Rose",
       "price": 30,
