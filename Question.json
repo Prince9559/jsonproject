@@ -16,6 +16,14 @@
         "c":"Numbering",
         "d":"Meta",
         "correct":"a"
+    },
+    {
+        "ques_no":"3",
+        "question":"What is Capital of India ?",
+        "a":"Mumbai",
+        "b":"New Delhi",
+        "c":"Punjab",
+        "d":"Varanasi",
+        "correct":"b"
     }
-    
 ]
