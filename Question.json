@@ -6,16 +6,18 @@
 "b": "Movie",
 "c": "Numbering",
 "d": "OOP",
-"correct": "a"
+"correct": "a",
+"src": "pic/c.jpg"
 },
 {
 "ques_no": "2",
 "question": "What is C++ ?",
-"a": "Object Oreinted Programming",
+"a": "Object Oriented Programming",
 "b": "Movie",
 "c": "Numbering",
 "d": "Meta",
-"correct": "a"
+"correct": "a",
+"src": "pic/c++.jpg"
 },
 {
 "ques_no": "3",
@@ -24,33 +26,77 @@
 "b": "New Delhi",
 "c": "Punjab",
 "d": "Varanasi",
-"correct": "b"
+"correct": "b",
+"src": "pic/delhi.jpg"
 },
 {
 "ques_no": "4",
-"question": "Who is India's PM ?",
+"question": "Who is This ?",
 "a": "Rahul Gandhi",
 "b": "Narendra Modi",
 "c": "Amit Shah",
 "d": "Yogi Adityanath",
-"correct": "b"
+"correct": "b",
+"src": "pic/modi.jpg"
 },
 {
 "ques_no": "5",
-"question": "National Animal ?",
+"question": "Who is This Animal ?",
 "a": "Lion",
 "b": "Tiger",
 "c": "Elephant",
 "d": "Leopard",
-"correct": "b"
+"correct": "b",
+"src": "pic/tiger.jpg"
 },
 {
 "ques_no": "6",
-"question": "India's First President ?",
+"question": "Who is This ?",
 "a": "A.P.J Kalam",
 "b": "Narendra Modi",
 "c": "Rajendra Prasad",
 "d": "Nehru",
-"correct": "c"
+"correct": "c",
+"src": "pic/raje.jpg"
+},
+{
+"ques_no": "7",
+"question": "Which Bird is This ?",
+"a": "Peacock",
+"b": "Hen",
+"c": "Crow",
+"d": "Parrot",
+"correct": "a",
+"src": "pic/peacock.jpg"
+},
+{
+"ques_no": "8",
+"question": "Which Bird is This ?",
+"a": "Hen",
+"b": "Parrot",
+"c": "Peacock",
+"d": "Crow",
+"correct": "b",
+"src": "pic/parrot.jpg"
+},
+{
+"ques_no": "9",
+"question": "Who is This Animal ?",
+"a": "Dog",
+"b": "Tiger",
+"c": "Lion",
+"d": "Cow",
+"correct": "c",
+"src": "pic/lion.jpg"
+},
+{
+"ques_no": "10",
+"question": "Who is This ?",
+"a": "M.S Dhoni",
+"b": "Hardik",
+"c": "Virat",
+"d": "Nehru",
+"correct": "a",
+"src": "pic/ms.jpg"
 }
 ]
