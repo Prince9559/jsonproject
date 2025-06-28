@@ -1,0 +1,92 @@
+[
+{
+"ques_no": "1",
+"question": "Which word is a noun ?",
+"a": "Run",
+"b": "Quickly",
+"c": "Happiness",
+"d": "Blue",
+"correct": "c"
+},
+{
+"ques_no": "2",
+"question": "Which sentance is correct ?",
+"a": "She go to school",
+"b": "She goes to school",
+"c": "She going to school",
+"d": "She gone to school",
+"correct": "b"
+},
+{
+"ques_no": "3",
+"question": "Which word is a verb ?",
+"a": "Quickly",
+"b": "Beautiful",
+"c": "Write",
+"d": "Book",
+"correct": "c"
+},
+{
+"ques_no": "4",
+"question": "Cat is a ?",
+"a": "Verb",
+"b": "Noun",
+"c": "Adjective",
+"d": "Pronoun",
+"correct": "b"
+},
+{
+"ques_no": "5",
+"question": "Opposite of hot ?",
+"a": "Warm",
+"b": "Cool",
+"c": "Heat",
+"d": "Cold",
+"correct": "c"
+},
+{
+"ques_no": "6",
+"question": "Run is a ?",
+"a": "Noun",
+"b": "Verb",
+"c": "Adjective",
+"d": "Preposition",
+"correct": "b"
+},
+{
+"ques_no": "7",
+"question": "I_____a book ?",
+"a": "am",
+"b": "is",
+"c": "has",
+"d": "have",
+"correct": "d"
+},
+{
+"ques_no": "8",
+"question": "Plural of box ?",
+"a": "Boxs",
+"b": "Boxes",
+"c": "Boxies",
+"d": "Box",
+"correct": "b"
+},
+{
+"ques_no": "9",
+"question": "Which is a color ?",
+"a": "Apple",
+"b": "Blue",
+"c": "Run",
+"d": "Book",
+"correct": "b"
+},
+{
+"ques_no": "10",
+"question": "Which is a fruit ?",
+"a": "Dog",
+"b": "Chair",
+"c": "Banana",
+"d": "Shirt",
+"correct": "c"
+}
+]

@@ -1,0 +1,92 @@
+[
+{
+"ques_no": "1",
+"question": "What is the unit of force",
+"a": "Watt",
+"b": "Newton",
+"c": "Joule",
+"d": "Meter",
+"correct": "b"
+},
+{
+"ques_no": "2",
+"question": "Who discovered gravity ?",
+"a": "Einstein",
+"b": "Newton",
+"c": "Galileo",
+"d": "Tesla",
+"correct": "b"
+},
+{
+"ques_no": "3",
+"question": "Speed = ?",
+"a": "Distance X Time",
+"b": "Distance / Time",
+"c": "Time / Distance",
+"d": "None",
+"correct": "b"
+},
+{
+"ques_no": "4",
+"question": "What is the unit of work ?",
+"a": "Newton",
+"b": "Watt",
+"c": "Joule",
+"d": "Volt",
+"correct": "c"
+},
+{
+"ques_no": "5",
+"question": "Earth rotates on its ?",
+"a": "Axis",
+"b": "Orbit",
+"c": "Center",
+"d": "Pole",
+"correct": "a"
+},
+{
+"ques_no": "6",
+"question": "Unit of time is ?",
+"a": "Meter",
+"b": "Second",
+"c": "Kilogram",
+"d": "Watt",
+"correct": "b"
+},
+{
+"ques_no": "7",
+"question": "Liquid turns to gas by ?",
+"a": "Melting",
+"b": "Freezing",
+"c": "Evaporation",
+"d": "Condensation",
+"correct": "c"
+},
+{
+"ques_no": "8",
+"question": "Unit of tempreature ?",
+"a": "Celsius",
+"b": "Meter",
+"c": "Newton",
+"d": "Joule",
+"correct": "a"
+},
+{
+"ques_no": "9",
+"question": "Sound travels in ?",
+"a": "Vacuum",
+"b": "Space",
+"c": "Air",
+"d": "None",
+"correct": "c"
+},
+{
+"ques_no": "10",
+"question": "The unit of length is ?",
+"a": "Gram",
+"b": "Second",
+"c": "Meter",
+"d": "Newton",
+"correct": "c"
+}
+]
