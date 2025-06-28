@@ -1,0 +1,92 @@
+[
+{
+"ques_no": "1",
+"question": "Full from of RAM is ?",
+"a": "Read All Memory",
+"b": "Random Access Memory",
+"c": "Read Access Machine",
+"d": "Real Access Machine",
+"correct": "b"
+},
+{
+"ques_no": "2",
+"question": "What does WWW stand for ?",
+"a": "World With Web",
+"b": "Web Wide World",
+"c": "World Wide Web",
+"d": "Wide Web World",
+"correct": "c"
+},
+{
+"ques_no": "3",
+"question": "Google Chrome is a ?",
+"a": "Text editor",
+"b": "Browser",
+"c": "Anitivirus",
+"d": "Software to draw",
+"correct": "b"
+},
+{
+"ques_no": "4",
+"question": "Monitor is used to ?",
+"a": "Type",
+"b": "Print",
+"c": "Display",
+"d": "Scan",
+"correct": "c"
+},
+{
+"ques_no": "5",
+"question": "Computer runs on ?",
+"a": "Air",
+"b": "Electricity",
+"c": "Water",
+"d": "Petrol",
+"correct": "b"
+},
+{
+"ques_no": "6",
+"question": "Mouse is moved on a ?",
+"a": "Table",
+"b": "Screen",
+"c": "Mouse Pad",
+"d": "CPU",
+"correct": "c"
+},
+{
+"ques_no": "7",
+"question": "Software is a ?",
+"a": "Physical part",
+"b": "Hardware",
+"c": "Program",
+"d": "Wire",
+"correct": "c"
+},
+{
+"ques_no": "8",
+"question": "The full from of USB is ?",
+"a": "Unique Serial Bus",
+"b": "Universal Serial Bus",
+"c": "Universal System Box",
+"d": "United System Bus",
+"correct": "b"
+},
+{
+"ques_no": "9",
+"question": "A file is saved in a ?",
+"a": "Printer",
+"b": "Monitor",
+"c": "Folder",
+"d": "Mouse",
+"correct": "c"
+},
+{
+"ques_no": "10",
+"question": "Shortcut for copy is ?",
+"a": "Ctrl + P",
+"b": "Ctrl + C",
+"c": "Ctcl + V",
+"d": "Ctcl + X",
+"correct": "b"
+}
+]
