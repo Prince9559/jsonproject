@@ -1,0 +1,94 @@
+[
+{
+"ques_no": "1",
+"question": "Python was created by ?",
+"a": "Prince",
+"b": "Sachin Pathak",
+"c": "Dennis Ritchine",
+"d": "Guido van Rossum",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "2",
+"question": "Python is ?",
+"a": "Database",
+"b": "Programming Language",
+"c": "Operating Syster",
+"d": "High-level language",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "3",
+"question": "To print in python ?",
+"a": "echo",
+"b": "write",
+"c": "cout",
+"d": "print()",
+"correct": "d"
+},
+{
+"ques_no": "4",
+"question": "Python file extension is ?",
+"a": ".tex",
+"b": ".exe",
+"c": ".java",
+"d": ".py",
+"correct": "d"
+},
+{
+"ques_no": "5",
+"question": "Which of these is a loop ?",
+"a": "print",
+"b": "elif",
+"c": "input",
+"d": "while",
+"correct": "c"
+},
+{
+"ques_no": "6",
+"question": "To check equality ?",
+"a": "=",
+"b": ":=",
+"c": "!==",
+"d": "==",
+"correct": "d"
+},
+{
+"ques_no": "7",
+"question": "Which one is a float ?",
+"a": "10",
+"b": "3.0",
+"c": "True",
+"d": "3.14",
+"correct": "d"
+},
+{
+"ques_no": "8",
+"question": "Python is ?",
+"a": "Compiled only",
+"b": "Interpreted",
+"c": "Only for web",
+"d": "Machine code",
+"correct": "b"
+},
+{
+"ques_no": "9",
+"question": "What is type (abc)",
+"a": "int",
+"b": "float",
+"c": "bool",
+"d": "str",
+"correct": "d"
+},
+{
+"ques_no": "10",
+"question": "To exit from loop ?",
+"a": "close",
+"b": "return",
+"c": "stop",
+"d": "break",
+"correct": "d"
+}
+]

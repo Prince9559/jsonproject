@@ -1,0 +1,94 @@
+[
+{
+"ques_no": "1",
+"question": "Waht is C++",
+"a": "Movie",
+"b": "OOP",
+"c": "Number",
+"d": "Nitric",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "2",
+"question": "Which operator adds values ?",
+"a": "-",
+"b": "+",
+"c": "/",
+"d": "*",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "3",
+"question": "C++ extension is ?",
+"a": "Cpp",
+"b": "Cxx",
+"c": "Txt",
+"d": "Exe",
+"correct": "a"
+},
+{
+"ques_no": "4",
+"question": "Which one is loop ?",
+"a": "if",
+"b": "Cout",
+"c": "While",
+"d": "Cin",
+"correct": "c"
+},
+{
+"ques_no": "5",
+"question": "Which is a Keyword ?",
+"a": "Start",
+"b": "Loop",
+"c": "While",
+"d": "Print",
+"correct": "c"
+},
+{
+"ques_no": "6",
+"question": "To read input from user ?",
+"a": "Cout",
+"b": "Input",
+"c": "read()",
+"d": "cin",
+"correct": "d"
+},
+{
+"ques_no": "7",
+"question": "To display output ?",
+"a": "cin",
+"b": "show",
+"c": "cout",
+"d": "print()",
+"correct": "c"
+},
+{
+"ques_no": "8",
+"question": "Which keyword ends a loop ?",
+"a": "end",
+"b": "break",
+"c": "stop",
+"d": "quit",
+"correct": "b"
+},
+{
+"ques_no": "9",
+"question": "Which is a logical operator ?",
+"a": "=",
+"b": "+",
+"c": ">",
+"d": "&&",
+"correct": "d"
+},
+{
+"ques_no": "10",
+"question": "Which is a valid loop ?",
+"a": "switch",
+"b": "case",
+"c": "if",
+"d": "for",
+"correct": "d"
+}
+]

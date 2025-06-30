@@ -1,0 +1,102 @@
+[
+{
+"ques_no": "1",
+"question": "Acid in lemon is ?",
+"a": "Citric",
+"b": "Hydrochloric",
+"c": "Sulfuic",
+"d": "Nitric",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "2",
+"question": "Which is a metal ?",
+"a": "Iron",
+"b": "Oxygen",
+"c": "Water",
+"d": "Sugar",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "3",
+"question": "Gas we breathe out ?",
+"a": "Oxygen",
+"b": "Nitrogen",
+"c": "Hydrogen",
+"d": "Carbon Dioxide",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "4",
+"question": "Murcury is ?",
+"a": "Solid",
+"b": "Liquid",
+"c": "Gas",
+"d": "None",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "5",
+"question": "Atomic number of Hydrogen ?",
+"a": "2",
+"b": "8",
+"c": "1",
+"d": "10",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "6",
+"question": " Water pH is ?",
+"a": "6",
+"b": "5",
+"c": "7",
+"d": "4",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "7",
+"question": "Which is not a gas ?",
+"a": "Oxygen",
+"b": "Hydrogen",
+"c": "Iron",
+"d": "Nitrogen",
+"answer":"e",
+"correct": "C"
+},
+{
+"ques_no": "8",
+"question": "What is HCl ?",
+"a": "Salt",
+"b": "Base",
+"c": "Acid",
+"d": "Water",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "9",
+"question": "Which is not a metal ?",
+"a": "Iron",
+"b": "Copper",
+"c": "Carbon",
+"d": "Silver",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "10",
+"question": "Rusting happens to ?",
+"a": "Wood",
+"b": "Plastic",
+"c": "Iron",
+"d": "Glass",
+"answer":"e",
+"correct": "c"
+}
+]

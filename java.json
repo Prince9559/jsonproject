@@ -1,0 +1,94 @@
+[
+{
+"ques_no": "1",
+"question": "Java was deleloped by ?",
+"a": "Elon Musk",
+"b": "Sachin Pathak",
+"c": "Prince Kumar",
+"d": "James Gosling",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "2",
+"question": "Java is a ?",
+"a": "Database",
+"b": "Programming Language",
+"c": "Operating Syster",
+"d": "Brower",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "3",
+"question": "Java code runs on ?",
+"a": "Browser",
+"b": "CPU directly",
+"c": "JVM",
+"d": "SQL",
+"correct": "c"
+},
+{
+"ques_no": "4",
+"question": "Which one is a loop in java ?",
+"a": "repeat",
+"b": "jump",
+"c": "next",
+"d": "while",
+"correct": "d"
+},
+{
+"ques_no": "5",
+"question": "Java is ?",
+"a": "Complied",
+"b": "Interpreted",
+"c": "Both",
+"d": "None",
+"correct": "c"
+},
+{
+"ques_no": "6",
+"question": "Keyword to create object ?",
+"a": "create",
+"b": "make",
+"c": "class",
+"d": "new",
+"correct": "d"
+},
+{
+"ques_no": "7",
+"question": "Used to break loop ?",
+"a": "exit",
+"b": "stop",
+"c": "return",
+"d": "break",
+"correct": "b"
+},
+{
+"ques_no": "8",
+"question": "Which is a valid data type ?",
+"a": "number",
+"b": "string(lowercase)",
+"c": "digit",
+"d": "int",
+"correct": "d"
+},
+{
+"ques_no": "9",
+"question": "Used to define a constant ?",
+"a": "static",
+"b": "const",
+"c": "fixed",
+"d": "final",
+"correct": "d"
+},
+{
+"ques_no": "10",
+"question": "Keyword for inheritance ?",
+"a": "class",
+"b": "parent",
+"c": "inherit",
+"d": "extends",
+"correct": "d"
+}
+]

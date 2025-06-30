@@ -1,0 +1,102 @@
+[
+{
+"ques_no": "1",
+"question": "Paragraph tag ?",
+"a": "<pg>",
+"b": "<para>",
+"c": "<p>",
+"d": "<text>",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "2",
+"question": "Line break tag ?",
+"a": "<lb>",
+"b": "<br>",
+"c": "<line>",
+"d": "<bk>",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "3",
+"question": "Image tag ?",
+"a": "<pic>",
+"b": "<img>",
+"c": "<image>",
+"d": "<src>",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "4",
+"question": "Bold text tag ?",
+"a": "<stronger>",
+"b": "<bold>",
+"c": "<b>",
+"d": "<bt>",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "5",
+"question": "Link tag ?",
+"a": "<p>",
+"b": "<link>",
+"c": "<href>",
+"d": "<url>",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "6",
+"question": "Largest heading tag ?",
+"a": "<h6>",
+"b": "<h1>",
+"c": "<h4>",
+"d": "<head>",
+"answer":"e",
+"correct": "2"
+},
+{
+"ques_no": "7",
+"question": "Title tag ?",
+"a": "<page>",
+"b": "<meta>",
+"c": "<head>",
+"d": "<title>",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "8",
+"question": "Ordered list tag ?",
+"a": "<ul>",
+"b": "<list>",
+"c": "<ol>",
+"d": "<li>",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "9",
+"question": "Which tag adds a buttom ?",
+"a": "<submit>",
+"b": "<press>",
+"c": "<click>",
+"d": "<button>",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "10",
+"question": "What does <ul> stand for ?",
+"a": "Upper list",
+"b": "Underrlined List",
+"c": "User list",
+"d": "Unordered list",
+"answer":"e",
+"correct": "d"
+}
+]
