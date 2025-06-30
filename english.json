@@ -6,6 +6,7 @@
 "b": "Quickly",
 "c": "Happiness",
 "d": "Blue",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -15,6 +16,7 @@
 "b": "She goes to school",
 "c": "She going to school",
 "d": "She gone to school",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -24,6 +26,7 @@
 "b": "Beautiful",
 "c": "Write",
 "d": "Book",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -33,6 +36,7 @@
 "b": "Noun",
 "c": "Adjective",
 "d": "Pronoun",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -42,6 +46,7 @@
 "b": "Cool",
 "c": "Heat",
 "d": "Cold",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -51,6 +56,7 @@
 "b": "Verb",
 "c": "Adjective",
 "d": "Preposition",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -60,6 +66,7 @@
 "b": "is",
 "c": "has",
 "d": "have",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -69,6 +76,7 @@
 "b": "Boxes",
 "c": "Boxies",
 "d": "Box",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -78,6 +86,7 @@
 "b": "Blue",
 "c": "Run",
 "d": "Book",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -87,6 +96,7 @@
 "b": "Chair",
 "c": "Banana",
 "d": "Shirt",
+"answer":"e",
 "correct": "c"
 }
 ]
