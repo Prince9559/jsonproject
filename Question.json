@@ -1,4 +1,4 @@
- [
+[
 {
 "ques_no": "1",
 "question": "What is C ?",
@@ -7,6 +7,7 @@
 "c": "Numbering",
 "d": "OOP",
 "correct": "a",
+"answer":"e",
 "src": "pic/c.jpg"
 },
 {
@@ -17,6 +18,7 @@
 "c": "Numbering",
 "d": "Meta",
 "correct": "a",
+"answer":"e",
 "src": "pic/c++.jpg"
 },
 {
@@ -27,6 +29,7 @@
 "c": "Punjab",
 "d": "Varanasi",
 "correct": "b",
+"answer":"e",
 "src": "pic/delhi.jpg"
 },
 {
@@ -37,6 +40,7 @@
 "c": "Amit Shah",
 "d": "Yogi Adityanath",
 "correct": "b",
+"answer":"e",
 "src": "pic/modi.jpg"
 },
 {
@@ -47,6 +51,7 @@
 "c": "Elephant",
 "d": "Leopard",
 "correct": "b",
+"answer":"e",
 "src": "pic/tiger.jpg"
 },
 {
@@ -57,6 +62,7 @@
 "c": "Rajendra Prasad",
 "d": "Nehru",
 "correct": "c",
+"answer":"e",
 "src": "pic/raje.jpg"
 },
 {
@@ -67,6 +73,7 @@
 "c": "Crow",
 "d": "Parrot",
 "correct": "a",
+"answer":"e",
 "src": "pic/peacock.jpg"
 },
 {
@@ -77,6 +84,7 @@
 "c": "Peacock",
 "d": "Crow",
 "correct": "b",
+"answer":"e",
 "src": "pic/parrot.jpg"
 },
 {
@@ -87,6 +95,7 @@
 "c": "Lion",
 "d": "Cow",
 "correct": "c",
+"answer":"e",
 "src": "pic/lion.jpg"
 },
 {
@@ -97,6 +106,7 @@
 "c": "Virat",
 "d": "Nehru",
 "correct": "a",
+"answer":"e",
 "src": "pic/ms.jpg"
 }
 ]
