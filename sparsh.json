@@ -1,0 +1,102 @@
+[
+{
+"ques_no": "1",
+"question": "C# is developed by ?",
+"a": "Apple",
+"b": "Google",
+"c": "Microsoft",
+"d": "IBM",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "2",
+"question": "File extension of C# file ?",
+"a": ".cs",
+"b": ".c",
+"c": ".cpp",
+"d": ".java",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "3",
+"question": "main methods in C# is ?",
+"a": "start()",
+"b": "Main()",
+"c": "run()",
+"d": "begin()",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "4",
+"question": "C# is",
+"a": "UI",
+"b": "Image",
+"c": "Music",
+"d": "High-level language",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "5",
+"question": "C# code runs on ?",
+"a": "JVM",
+"b": "CLR",
+"c": "CPU only",
+"d": "None",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "6",
+"question": "How to print in C# ?",
+"a": "echo()",
+"b": "print()",
+"c": "printf()",
+"d": "Consol.WriteLine()",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "7",
+"question": "C# is used for ?",
+"a": "Games",
+"b": "Web Apps",
+"c": "Desktop apps",
+"d": "All",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "8",
+"question": "Char Stores ?",
+"a": "Word",
+"b": "Sentance",
+"c": "One letter",
+"d": "Number",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "9",
+"question": "String stores ?",
+"a": "True/False",
+"b": "Numbers",
+"c": "Letters",
+"d": "Text",
+"answer":"e",
+"correct": "d"
+},
+{
+"ques_no": "10",
+"question": "if is used for ?",
+"a": "Loops",
+"b": "Printing",
+"c": "Conditions",
+"d": "Classes",
+"answer":"e",
+"correct": "c"
+}
+]

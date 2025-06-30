@@ -26,6 +26,7 @@
 "b": "CPU directly",
 "c": "JVM",
 "d": "SQL",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -35,6 +36,7 @@
 "b": "jump",
 "c": "next",
 "d": "while",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -44,6 +46,7 @@
 "b": "Interpreted",
 "c": "Both",
 "d": "None",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -53,6 +56,7 @@
 "b": "make",
 "c": "class",
 "d": "new",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -62,6 +66,7 @@
 "b": "stop",
 "c": "return",
 "d": "break",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -71,6 +76,7 @@
 "b": "string(lowercase)",
 "c": "digit",
 "d": "int",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -80,6 +86,7 @@
 "b": "const",
 "c": "fixed",
 "d": "final",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -89,6 +96,7 @@
 "b": "parent",
 "c": "inherit",
 "d": "extends",
+"answer":"e",
 "correct": "d"
 }
 ]

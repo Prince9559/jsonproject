@@ -1,7 +1,7 @@
 [
 {
 "ques_no": "1",
-"question": "Waht is C++",
+"question": "Waht is C++ ?",
 "a": "Movie",
 "b": "OOP",
 "c": "Number",
@@ -26,6 +26,7 @@
 "b": "Cxx",
 "c": "Txt",
 "d": "Exe",
+"answer":"e",
 "correct": "a"
 },
 {
@@ -35,6 +36,7 @@
 "b": "Cout",
 "c": "While",
 "d": "Cin",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -44,6 +46,7 @@
 "b": "Loop",
 "c": "While",
 "d": "Print",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -53,6 +56,7 @@
 "b": "Input",
 "c": "read()",
 "d": "cin",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -62,6 +66,7 @@
 "b": "show",
 "c": "cout",
 "d": "print()",
+"answer":"e",
 "correct": "c"
 },
 {
@@ -71,6 +76,7 @@
 "b": "break",
 "c": "stop",
 "d": "quit",
+"answer":"e",
 "correct": "b"
 },
 {
@@ -80,6 +86,7 @@
 "b": "+",
 "c": ">",
 "d": "&&",
+"answer":"e",
 "correct": "d"
 },
 {
@@ -89,6 +96,7 @@
 "b": "case",
 "c": "if",
 "d": "for",
+"answer":"e",
 "correct": "d"
 }
 ]

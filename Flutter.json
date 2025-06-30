@@ -1,0 +1,102 @@
+[
+{
+"ques_no": "1",
+"question": "What is Dart ?",
+"a": "Database",
+"b": "Programming Language",
+"c": "Text Editor",
+"d": "Browser",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "2",
+"question": "What is Widget in Flutter ?",
+"a": "A part of UI",
+"b": "A photo file",
+"c": "A Music file",
+"d": "Video",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "3",
+"question": "Flutter uses",
+"a": "Dart",
+"b": "C++",
+"c": "HTML",
+"d": "python",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "4",
+"question": "AppBar is part of ?",
+"a": "UI",
+"b": "Image",
+"c": "Music",
+"d": "Video",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "5",
+"question": "Fluter is used for ?",
+"a": "Cooking",
+"b": "Drawing",
+"c": "App Development",
+"d": "Browsering",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "6",
+"question": "Sized Box gives ?",
+"a": "Sound",
+"b": "Space",
+"c": "Color",
+"d": "Video",
+"answer":"e",
+"correct": "b"
+},
+{
+"ques_no": "7",
+"question": "Flutter apps run on ?",
+"a": "Only Android",
+"b": "Only iOS",
+"c": "Both Android and iOS",
+"d": "Only Window",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "8",
+"question": "Main Function in Dart is ?",
+"a": "main()",
+"b": "start()",
+"c": "run()",
+"d": "begin()",
+"answer":"e",
+"correct": "a"
+},
+{
+"ques_no": "9",
+"question": "setState() is used to ?",
+"a": "Delete app",
+"b": "Close app",
+"c": "Update",
+"d": "Restartapp",
+"answer":"e",
+"correct": "c"
+},
+{
+"ques_no": "10",
+"question": "Flutter logo color ?",
+"a": "Green",
+"b": "Red",
+"c": "Blue",
+"d": "Yellow",
+"answer":"e",
+"correct": "c"
+}
+]
