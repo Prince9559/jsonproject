@@ -3,70 +3,70 @@
   {
     "id": 101,
     "name": "Floral Summer Dress Women Regular Fit Solid",
-    "image": "pic/men1.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men1.jpg",
     "new_price": 999,
     "old_price": 1299
   },
   {
     "id": 102,
     "name": "Trendy Handbag Floral Summer Dress Women Solid",
-    "image": "pic/men2.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men2.jpg",
     "new_price": 1199,
     "old_price": 1499
   },
   {
     "id": 103,
     "name": "High Heel Sandals Floral Summer Dress Women solid",
-    "image": "pic/men3.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men3.jpg",
     "new_price": 899,
     "old_price": 1199
   },
   {
     "id": 104,
     "name": "Designer Floral Summer Dress Women Regular Fit",
-    "image": "pic/men4.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men4.jpg",
     "new_price": 799,
     "old_price": 1099
   },
   {
     "id": 105,
     "name": "Stylish Top Floral Summer Dress Women Regular Fit Solid",
-    "image": "pic/men5.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men5.jpg",
     "new_price": 699,
     "old_price": 999
   },
   {
     "id": 106,
     "name": "Ladies Floral Summer Dress Women Regular Fit Solid (Blue)",
-    "image": "pic/men6.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men6.jpg",
     "new_price": 1299,
     "old_price": 1699
   },
   {
     "id": 107,
     "name": "Floral Summer Dress Styles Women Regular Fit Solid (Blue)",
-    "image": "pic/men7.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men7.jpg",
     "new_price": 599,
     "old_price": 899
   },
   {
     "id": 108,
     "name": "Ladies Floral Summer Dress Women Regular Fit Solid (Black)",
-    "image": "pic/8.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/8.jpg",
     "new_price": 499,
     "old_price": 699
   },
   {
     "id": 109,
     "name": "Floral Summer Dress Women Regular Fit Solid",
-    "image": "pic/men9.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men9.jpg",
     "new_price": 899,
     "old_price": 1199
   },
   {
     "id": 110,
     "name": "Winter Floral Summer Dress Women Regular Fit Solid",
-    "image": "pic/men10.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/men10.jpg",
     "new_price": 1099,
     "old_price": 1399
   }
