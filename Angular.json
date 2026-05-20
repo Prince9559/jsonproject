@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Raj",
+    "subject": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Radha",
+    "subject": "Civil Engineer"
+  },
+  {
+    "id": 3,
+    "name": "Anup",
+    "subject": "Hardware Engineer"
+  }
+]
