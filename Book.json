@@ -1,0 +1,82 @@
+[
+  {
+    "id": 901,
+    "name": "C Programming",
+    "description": "Learn the fundamentals of C programming, including variables, loops, functions, and pointers.",
+    "image": "pic/c.jpg",
+    "new_price": 450,
+    "old_price": 600
+  },
+  {
+    "id": 902,
+    "name": "C++ Programming",
+    "description": "Master object-oriented programming concepts, STL, and advanced C++ development.",
+    "image": "pic/c++.jpg",
+    "new_price": 300,
+    "old_price": 500
+  },
+  {
+    "id": 903,
+    "name": "Java Programming",
+    "description": "Build strong Java skills with OOP concepts, collections, exception handling, and projects.",
+    "image": "pic/java.jpg",
+    "new_price": 440,
+    "old_price": 700
+  },
+  {
+    "id": 904,
+    "name": "Python Programming",
+    "description": "Learn Python from basics to advanced topics, including automation and data handling.",
+    "image": "pic/python.jpg",
+    "new_price": 120,
+    "old_price": 300
+  },
+  {
+    "id": 905,
+    "name": "JavaScript Development",
+    "description": "Understand modern JavaScript, ES6+, DOM manipulation, and web application development.",
+    "image": "pic/js.jpg",
+    "new_price": 900,
+    "old_price": 1200
+  },
+  {
+    "id": 906,
+    "name": "Node.js Backend",
+    "description": "Create scalable backend applications using Node.js, Express.js, and REST APIs.",
+    "image": "pic/node.jpg",
+    "new_price": 330,
+    "old_price": 550
+  },
+  {
+    "id": 907,
+    "name": "C# Programming",
+    "description": "Learn C# programming for desktop, web, and enterprise application development.",
+    "image": "pic/c#.jpg",
+    "new_price": 780,
+    "old_price": 900
+  },
+  {
+    "id": 908,
+    "name": "MongoDB Database",
+    "description": "Master NoSQL database concepts, CRUD operations, indexing, and aggregation in MongoDB.",
+    "image": "pic/mongo.jpg",
+    "new_price": 890,
+    "old_price": 900
+  },
+  {
+    "id": 909,
+    "name": "SQL Database",
+    "description": "Learn SQL queries, joins, stored procedures, and database management techniques.",
+    "image": "pic/sql.jpg",
+    "new_price": 230,
+    "old_price": 290
+  },
+  {
+    "id": 1000,
+    "name": "Artificial Intelligence",
+    "description": "Explore AI concepts, machine learning basics, neural networks, and real-world applications.",
+    "image": "pic/ai.jpg",
+    "new_price": 450,
+    "old_price": 600
+  }
+]

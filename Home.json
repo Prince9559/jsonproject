@@ -1,0 +1,82 @@
+[
+  {
+    "id": 501,
+    "name": "Air Conditioner",
+    "description": "Energy-efficient air conditioner with powerful cooling performance.",
+    "image": "pic/Air.jpg",
+    "new_price": 1499,
+    "old_price": 1700
+  },
+  {
+    "id": 502,
+    "name": "Electric Iron",
+    "description": "Lightweight electric iron with non-stick soleplate for smooth ironing.",
+    "image": "pic/Electric.jpg",
+    "new_price": 599,
+    "old_price": 930
+  },
+  {
+    "id": 503,
+    "name": "Microwave Oven",
+    "description": "Modern microwave oven for quick cooking, heating, and grilling.",
+    "image": "pic/Microware.jpg",
+    "new_price": 890,
+    "old_price": 1000
+  },
+  {
+    "id": 504,
+    "name": "Mixer Grinder",
+    "description": "Powerful mixer grinder for grinding, blending, and food preparation.",
+    "image": "pic/Mixer.jpg",
+    "new_price": 999,
+    "old_price": 1100
+  },
+  {
+    "id": 505,
+    "name": "Refrigerator",
+    "description": "Spacious refrigerator with advanced cooling technology and storage.",
+    "image": "pic/Refrigerator.jpg",
+    "new_price": 799,
+    "old_price": 999
+  },
+  {
+    "id": 506,
+    "name": "Washing Machine",
+    "description": "Automatic washing machine designed for efficient and gentle cleaning.",
+    "image": "pic/Washing.jpg",
+    "new_price": 599,
+    "old_price": 899
+  },
+  {
+    "id": 507,
+    "name": "Water Purifier",
+    "description": "Advanced water purifier providing safe and clean drinking water.",
+    "image": "pic/Water.jpg",
+    "new_price": 499,
+    "old_price": 690
+  },
+  {
+    "id": 508,
+    "name": "Vacuum Cleaner",
+    "description": "Compact vacuum cleaner with strong suction for deep cleaning.",
+    "image": "pic/Vacuum.jpg",
+    "new_price": 399,
+    "old_price": 709
+  },
+  {
+    "id": 509,
+    "name": "Ceiling Fan",
+    "description": "High-speed ceiling fan with energy-saving motor and silent operation.",
+    "image": "pic/Ceiling.jpg",
+    "new_price": 199,
+    "old_price": 390
+  },
+  {
+    "id": 600,
+    "name": "Electric Kettle",
+    "description": "Fast-boiling electric kettle ideal for tea, coffee, and hot water.",
+    "image": "pic/Kettle.jpg",
+    "new_price": 55,
+    "old_price": 89
+  }
+]

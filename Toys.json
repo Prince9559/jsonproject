@@ -1,0 +1,82 @@
+[
+  {
+    "id": 601,
+    "name": "Remote Control Car",
+    "description": "Exciting remote control car with smooth handling and high-speed performance.",
+    "image": "pic/Remote.jpg",
+    "new_price": 390,
+    "old_price": 400
+  },
+  {
+    "id": 602,
+    "name": "Toy Robot",
+    "description": "Interactive toy robot with lights, sounds, and fun movements.",
+    "image": "pic/Robot.jpg",
+    "new_price": 599,
+    "old_price": 930
+  },
+  {
+    "id": 603,
+    "name": "Rubik's Cube",
+    "description": "Classic puzzle cube that improves logic, memory, and problem-solving skills.",
+    "image": "pic/Rubik's.jpg",
+    "new_price": 330,
+    "old_price": 800
+  },
+  {
+    "id": 604,
+    "name": "Toy Train",
+    "description": "Colorful toy train designed for endless fun and imaginative play.",
+    "image": "pic/Toy.jpg",
+    "new_price": 590,
+    "old_price": 690
+  },
+  {
+    "id": 605,
+    "name": "Teddy Bear",
+    "description": "Soft and cuddly teddy bear, perfect for children and gifting.",
+    "image": "pic/Teddy.jpg",
+    "new_price": 799,
+    "old_price": 999
+  },
+  {
+    "id": 606,
+    "name": "Doll",
+    "description": "Beautiful doll with attractive design for creative role-playing games.",
+    "image": "pic/Doll.jpg",
+    "new_price": 999,
+    "old_price": 1000
+  },
+  {
+    "id": 607,
+    "name": "Toy Helicopter",
+    "description": "Fun toy helicopter with realistic design and exciting features.",
+    "image": "pic/Helicopter.jpg",
+    "new_price": 450,
+    "old_price": 690
+  },
+  {
+    "id": 608,
+    "name": "Action Figure",
+    "description": "Detailed action figure toy inspired by popular superhero characters.",
+    "image": "pic/Action.jpg",
+    "new_price": 399,
+    "old_price": 709
+  },
+  {
+    "id": 609,
+    "name": "Puzzle Game",
+    "description": "Educational puzzle game that helps improve concentration and thinking skills.",
+    "image": "pic/Puzzle.jpg",
+    "new_price": 20,
+    "old_price": 50
+  },
+  {
+    "id": 700,
+    "name": "Building Blocks",
+    "description": "Creative building blocks set that encourages imagination and learning.",
+    "image": "pic/Building.jpg",
+    "new_price": 55,
+    "old_price": 89
+  }
+]

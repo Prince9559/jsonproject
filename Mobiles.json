@@ -1,0 +1,82 @@
+[
+  {
+    "id": 201,
+    "name": "iPhone 16 Pro Max",
+    "description": "Apple flagship smartphone with advanced camera system, powerful performance, and premium design.",
+    "image": "pic/iPhone.jpg",
+    "new_price": 45000,
+    "old_price": 50000
+  },
+  {
+    "id": 202,
+    "name": "Samsung Galaxy S25 Ultra",
+    "description": "Premium Android smartphone featuring a stunning display, powerful processor, and professional-grade cameras.",
+    "image": "pic/Samsung.jpg",
+    "new_price": 140000,
+    "old_price": 150000
+  },
+  {
+    "id": 203,
+    "name": "OnePlus 13",
+    "description": "High-performance smartphone with fast charging, smooth display, and flagship-level features.",
+    "image": "pic/OnePlus.jpg",
+    "new_price": 69000,
+    "old_price": 71000
+  },
+  {
+    "id": 204,
+    "name": "Xiaomi 15 Pro",
+    "description": "Feature-packed smartphone offering excellent performance, camera quality, and battery life.",
+    "image": "pic/Xiaomi.jpg",
+    "new_price": 99999,
+    "old_price": 110000
+  },
+  {
+    "id": 205,
+    "name": "Google Pixel 10 Pro",
+    "description": "Google's flagship smartphone known for exceptional photography and pure Android experience.",
+    "image": "pic/Google.jpg",
+    "new_price": 200000,
+    "old_price": 220000
+  },
+  {
+    "id": 206,
+    "name": "Vivo X200 Pro",
+    "description": "Premium camera-focused smartphone with advanced imaging technology and sleek design.",
+    "image": "pic/Vivo.jpg",
+    "new_price": 150000,
+    "old_price": 160000
+  },
+  {
+    "id": 207,
+    "name": "OPPO Find X8 Pro",
+    "description": "Flagship smartphone featuring innovative design, powerful hardware, and excellent photography.",
+    "image": "pic/OPPO.jpg",
+    "new_price": 145000,
+    "old_price": 180000
+  },
+  {
+    "id": 208,
+    "name": "Realme GT 8 Pro",
+    "description": "Performance-oriented smartphone with fast processor, gaming features, and modern design.",
+    "image": "pic/Realme.jpg",
+    "new_price": 59000,
+    "old_price": 62000
+  },
+  {
+    "id": 209,
+    "name": "Nothing Phone (3)",
+    "description": "Unique smartphone with transparent design, clean software experience, and innovative features.",
+    "image": "pic/Nothing.jpg",
+    "new_price": 89000,
+    "old_price": 91000
+  },
+  {
+    "id": 300,
+    "name": "Motorola Edge 60 Ultra",
+    "description": "Premium smartphone with curved display, powerful performance, and advanced camera capabilities.",
+    "image": "pic/Motorola.jpg",
+    "new_price": 90000,
+    "old_price": 100000
+  }
+]

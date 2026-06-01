@@ -1,0 +1,82 @@
+[
+  {
+    "id": 301,
+    "name": "Face Wash",
+    "description": "Gentle face wash that removes dirt, oil, and impurities for fresh skin.",
+    "image": "pic/Face.jpg",
+    "new_price": 450,
+    "old_price": 599
+  },
+  {
+    "id": 302,
+    "name": "Moisturizing Cream",
+    "description": "Hydrating cream that keeps your skin soft, smooth, and moisturized.",
+    "image": "pic/Moisturizing.jpg",
+    "new_price": 399,
+    "old_price": 1400
+  },
+  {
+    "id": 303,
+    "name": "Sunscreen Lotion",
+    "description": "Protects your skin from harmful UV rays while keeping it nourished.",
+    "image": "pic/Sunscreen.jpg",
+    "new_price": 199,
+    "old_price": 300
+  },
+  {
+    "id": 304,
+    "name": "Lipstick",
+    "description": "Long-lasting lipstick with rich color and a smooth finish.",
+    "image": "pic/Lipstick.jpg",
+    "new_price": 99,
+    "old_price": 110
+  },
+  {
+    "id": 305,
+    "name": "Foundation",
+    "description": "Lightweight foundation that provides even skin tone and flawless coverage.",
+    "image": "pic/Foundation.jpg",
+    "new_price": 299,
+    "old_price": 399
+  },
+  {
+    "id": 306,
+    "name": "Perfume",
+    "description": "Premium fragrance with a refreshing and long-lasting scent.",
+    "image": "pic/Perfume.jpg",
+    "new_price": 999,
+    "old_price": 9999
+  },
+  {
+    "id": 307,
+    "name": "Shampoo",
+    "description": "Nourishing shampoo that cleanses hair and promotes healthy growth.",
+    "image": "pic/Shampoo.jpg",
+    "new_price": 9,
+    "old_price": 69
+  },
+  {
+    "id": 308,
+    "name": "Conditioner",
+    "description": "Hair conditioner that adds shine, softness, and smoothness.",
+    "image": "pic/Conditioner.jpg",
+    "new_price": 899,
+    "old_price": 999
+  },
+  {
+    "id": 309,
+    "name": "Face Serum",
+    "description": "Advanced serum that helps improve skin texture and glow.",
+    "image": "pic/Serum.jpg",
+    "new_price": 449,
+    "old_price": 590
+  },
+  {
+    "id": 400,
+    "name": "Makeup Kit",
+    "description": "Complete makeup kit with essential beauty products for every occasion.",
+    "image": "pic/Makeup.jpg",
+    "new_price": 1000,
+    "old_price": 1200
+  }
+]

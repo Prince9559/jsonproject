@@ -1,0 +1,82 @@
+[
+  {
+    "id": 701,
+    "name": "Steamed Momos",
+    "description": "Soft and delicious steamed momos filled with fresh vegetables and flavorful spices.",
+    "image": "pic/Momos.jpg",
+    "new_price": 50,
+    "old_price": 70
+  },
+  {
+    "id": 702,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza topped with fresh cheese, tomato sauce, and herbs.",
+    "image": "pic/Pizza.jpg",
+    "new_price": 180,
+    "old_price": 300
+  },
+  {
+    "id": 703,
+    "name": "Paneer Tikka",
+    "description": "Grilled paneer cubes marinated in rich Indian spices and yogurt.",
+    "image": "pic/Panner.jpg",
+    "new_price": 320,
+    "old_price": 700
+  },
+  {
+    "id": 704,
+    "name": "Crispy Samosa",
+    "description": "Golden fried samosa stuffed with spicy potato filling.",
+    "image": "pic/Samosa.jpg",
+    "new_price": 18,
+    "old_price": 25
+  },
+  {
+    "id": 705,
+    "name": "Grilled Sandwich",
+    "description": "Crunchy grilled sandwich loaded with fresh vegetables and cheese.",
+    "image": "pic/Sandwich.jpg",
+    "new_price": 200,
+    "old_price": 340
+  },
+  {
+    "id": 706,
+    "name": "Masala Dosa",
+    "description": "South Indian crispy dosa served with spicy potato masala filling.",
+    "image": "pic/Dosa.jpg",
+    "new_price": 390,
+    "old_price": 550
+  },
+  {
+    "id": 707,
+    "name": "Veg Burger",
+    "description": "Tasty vegetable patty burger with fresh lettuce and sauces.",
+    "image": "pic/Burger.jpg",
+    "new_price": 45,
+    "old_price": 90
+  },
+  {
+    "id": 708,
+    "name": "Chicken Biryani",
+    "description": "Aromatic basmati rice cooked with tender chicken and exotic spices.",
+    "image": "pic/Biryani.jpg",
+    "new_price": 509,
+    "old_price": 609
+  },
+  {
+    "id": 709,
+    "name": "Soft Idli",
+    "description": "Soft and fluffy idlis served as a healthy South Indian breakfast.",
+    "image": "pic/Idli.jpg",
+    "new_price": 20,
+    "old_price": 50
+  },
+  {
+    "id": 800,
+    "name": "Hakka Noodles",
+    "description": "Flavorful stir-fried noodles tossed with fresh vegetables and sauces.",
+    "image": "pic/Noodles.jpg",
+    "new_price": 55,
+    "old_price": 89
+  }
+]

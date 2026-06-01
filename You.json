@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "name": "Smart Ring",
+    "description": "Advanced smart ring with fitness tracking, health monitoring, and stylish design.",
+    "image": "pic/Ring.jpg",
+    "new_price": 450,
+    "old_price": 690
+  },
+  {
+    "id": 102,
+    "name": "DSLR Camera",
+    "description": "Professional DSLR camera for capturing high-quality photos and videos.",
+    "image": "pic/DSLR.jpg",
+    "new_price": 4500,
+    "old_price": 5000
+  },
+  {
+    "id": 103,
+    "name": "Coffee Maker",
+    "description": "Automatic coffee maker that brews rich and flavorful coffee in minutes.",
+    "image": "pic/Coffee.jpg",
+    "new_price": 590,
+    "old_price": 790
+  },
+  {
+    "id": 104,
+    "name": "Backpack",
+    "description": "Durable and spacious backpack ideal for travel, school, and office use.",
+    "image": "pic/Backpack.jpg",
+    "new_price": 299,
+    "old_price": 490
+  },
+  {
+    "id": 105,
+    "name": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection for everyday outdoor wear.",
+    "image": "pic/Sunglasses.jpg",
+    "new_price": 899,
+    "old_price": 1000
+  },
+  {
+    "id": 106,
+    "name": "Hair Dryer",
+    "description": "Powerful hair dryer designed for quick drying and smooth styling.",
+    "image": "pic/Hair.jpg",
+    "new_price": 790,
+    "old_price": 890
+  },
+  {
+    "id": 107,
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush for effective and gentle cleaning.",
+    "image": "pic/Toothbrush.jpg",
+    "new_price": 499,
+    "old_price": 699
+  },
+  {
+    "id": 108,
+    "name": "Yoga Mat",
+    "description": "Comfortable non-slip yoga mat perfect for workouts and meditation.",
+    "image": "pic/Yoga.jpg",
+    "new_price": 220,
+    "old_price": 400
+  },
+  {
+    "id": 109,
+    "name": "Study Table Lamp",
+    "description": "LED study lamp with adjustable brightness for reading and work.",
+    "image": "pic/Study.jpg",
+    "new_price": 349,
+    "old_price": 849
+  },
+  {
+    "id": 110,
+    "name": "Wireless Keyboard",
+    "description": "Compact wireless keyboard offering smooth typing and reliable connectivity.",
+    "image": "pic/Wireless.jpg",
+    "new_price": 750,
+    "old_price": 980
+  }
+]
