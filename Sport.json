@@ -51,7 +51,7 @@
     "id": 807,
     "name": "Boxing Gloves",
     "description": "Comfortable boxing gloves with superior padding for training and sparring.",
-    "image": "pic/Boxing.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Boxing.jpg",
     "new_price": 900,
     "old_price": 990
   },
@@ -59,7 +59,7 @@
     "id": 808,
     "name": "Hockey Stick",
     "description": "Professional hockey stick designed for enhanced grip and ball control.",
-    "image": "pic/Hokey.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Hokey.jpg",
     "new_price": 400,
     "old_price": 700
   },
@@ -67,7 +67,7 @@
     "id": 809,
     "name": "Table Tennis Paddle",
     "description": "High-performance paddle offering excellent spin, speed, and accuracy.",
-    "image": "pic/Table.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Table.jpg",
     "new_price": 790,
     "old_price": 1000
   },
@@ -75,7 +75,7 @@
     "id": 900,
     "name": "Volleyball",
     "description": "Soft-touch volleyball ideal for indoor and outdoor gameplay.",
-    "image": "pic/Volleyball.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Volleyball.jpg",
     "new_price": 450,
     "old_price": 600
   }

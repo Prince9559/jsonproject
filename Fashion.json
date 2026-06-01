@@ -51,7 +51,7 @@
     "id": 117,
     "name": "Cotton Kurti",
     "description": "Soft cotton kurti featuring traditional style and all-day comfort.",
-    "image": "pic/Cotton.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Cotton.jpg",
     "new_price": 499,
     "old_price": 699
   },

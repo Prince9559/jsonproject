@@ -51,7 +51,7 @@
     "id": 707,
     "name": "Veg Burger",
     "description": "Tasty vegetable patty burger with fresh lettuce and sauces.",
-    "image": "pic/Burger.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Burger.jpg",
     "new_price": 45,
     "old_price": 90
   },
@@ -59,7 +59,7 @@
     "id": 708,
     "name": "Chicken Biryani",
     "description": "Aromatic basmati rice cooked with tender chicken and exotic spices.",
-    "image": "pic/Biryani.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Biryani.jpg",
     "new_price": 509,
     "old_price": 609
   },
@@ -67,7 +67,7 @@
     "id": 709,
     "name": "Soft Idli",
     "description": "Soft and fluffy idlis served as a healthy South Indian breakfast.",
-    "image": "pic/Idli.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Idli.jpg",
     "new_price": 20,
     "old_price": 50
   },
@@ -75,7 +75,7 @@
     "id": 800,
     "name": "Hakka Noodles",
     "description": "Flavorful stir-fried noodles tossed with fresh vegetables and sauces.",
-    "image": "pic/Noodles.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Noodles.jpg",
     "new_price": 55,
     "old_price": 89
   }

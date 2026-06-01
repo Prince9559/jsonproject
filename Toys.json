@@ -51,7 +51,7 @@
     "id": 607,
     "name": "Toy Helicopter",
     "description": "Fun toy helicopter with realistic design and exciting features.",
-    "image": "pic/Helicopter.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Helicopter.jpg",
     "new_price": 450,
     "old_price": 690
   },
@@ -59,7 +59,7 @@
     "id": 608,
     "name": "Action Figure",
     "description": "Detailed action figure toy inspired by popular superhero characters.",
-    "image": "pic/Action.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Action.jpg",
     "new_price": 399,
     "old_price": 709
   },
@@ -67,7 +67,7 @@
     "id": 609,
     "name": "Puzzle Game",
     "description": "Educational puzzle game that helps improve concentration and thinking skills.",
-    "image": "pic/Puzzle.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Puzzle.jpg",
     "new_price": 20,
     "old_price": 50
   },
@@ -75,7 +75,7 @@
     "id": 700,
     "name": "Building Blocks",
     "description": "Creative building blocks set that encourages imagination and learning.",
-    "image": "pic/Building.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Building.jpg",
     "new_price": 55,
     "old_price": 89
   }

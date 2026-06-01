@@ -3,7 +3,7 @@
     "id": 401,
     "name": "Laptop",
     "description": "High-performance laptop suitable for work, study, and entertainment.",
-    "image": "pic/Laptop.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Laptop.jpg",
     "new_price": 56000,
     "old_price": 60000
   },
@@ -11,7 +11,7 @@
     "id": 402,
     "name": "LED Smart TV",
     "description": "Smart LED TV with stunning picture quality and built-in streaming apps.",
-    "image": "pic/LED.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/LED.jpg",
     "new_price": 9999,
     "old_price": 12000
   },
@@ -19,7 +19,7 @@
     "id": 403,
     "name": "Smartphone",
     "description": "Feature-rich smartphone with a powerful processor and advanced camera system.",
-    "image": "pic/Smartphone.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Smartphone.jpg",
     "new_price": 120000,
     "old_price": 140000
   },
@@ -27,7 +27,7 @@
     "id": 404,
     "name": "Smart Watch",
     "description": "Stylish smartwatch with fitness tracking, notifications, and health monitoring.",
-    "image": "pic/Smart.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Smart.jpg",
     "new_price": 999,
     "old_price": 1100
   },
@@ -35,7 +35,7 @@
     "id": 405,
     "name": "Bluetooth Speaker",
     "description": "Portable Bluetooth speaker with clear sound and long battery life.",
-    "image": "pic/Bluetooth.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Bluetooth.jpg",
     "new_price": 799,
     "old_price": 999
   },
@@ -43,7 +43,7 @@
     "id": 406,
     "name": "Wireless Earbuds",
     "description": "Comfortable wireless earbuds with crystal-clear audio and noise reduction.",
-    "image": "pic/Earbuds.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Earbuds.jpg",
     "new_price": 599,
     "old_price": 899
   },
@@ -51,7 +51,7 @@
     "id": 407,
     "name": "Digital Camera",
     "description": "Capture high-quality photos and videos with this advanced digital camera.",
-    "image": "pic/Digital.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Digital.jpg",
     "new_price": 499,
     "old_price": 690
   },
@@ -59,7 +59,7 @@
     "id": 408,
     "name": "Gaming Console",
     "description": "Next-generation gaming console for immersive gaming experiences.",
-    "image": "pic/Gaming.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Gaming.jpg",
     "new_price": 399,
     "old_price": 709
   },
@@ -67,7 +67,7 @@
     "id": 409,
     "name": "Power Bank",
     "description": "Reliable power bank for charging your devices anytime, anywhere.",
-    "image": "pic/Power.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Power.jpg",
     "new_price": 199,
     "old_price": 390
   },
@@ -75,7 +75,7 @@
     "id": 500,
     "name": "Tablet",
     "description": "Lightweight tablet perfect for browsing, reading, and entertainment.",
-    "image": "pic/Tablet.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Tablet.jpg",
     "new_price": 55,
     "old_price": 89
   }
