@@ -2,7 +2,7 @@
   {
     "id": 1001,
     "name": "Earbuds",
-    "description": "Wireless Bluetooth earbuds with crystal-clear sound quality, deep bass, and long-lasting battery life.",
+    "description": "Top Sellers",
     "image": "https://prince9559.github.io/jsonproject/pic/buds.jpg",
     "new_price": 490,
     "old_price": 690
@@ -10,7 +10,7 @@
   {
     "id": 1002,
     "name": "Face Wash",
-    "description": "Refreshing face wash that removes dirt, excess oil, and impurities while keeping skin fresh and clean.",
+    "description": "Bestsellers",
     "image": "https://prince9559.github.io/jsonproject/pic/facewash.jpg",
     "new_price": 120,
     "old_price": 300
@@ -18,7 +18,7 @@
   {
     "id": 1003,
     "name": "Pentonic Pen",
-    "description": "Smooth-writing Pentonic pen with a comfortable grip, ideal for students and office work.",
+    "description": "Top Picks",
     "image": "https://prince9559.github.io/jsonproject/pic/pen.jpg",
     "new_price": 450,
     "old_price": 520
@@ -26,7 +26,7 @@
   {
     "id": 1004,
     "name": "T-shirt",
-    "description": "Comfortable and stylish cotton T-shirt designed for everyday wear with a modern fit.",
+    "description": "Most Loved",
     "image": "https://prince9559.github.io/jsonproject/pic/shirt.jpg",
     "new_price": 250,
     "old_price": 300
