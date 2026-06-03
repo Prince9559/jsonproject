@@ -144,13 +144,13 @@
     "old_price": 42000
   },
   {
-    "id": 1023,
-    "name": "Speaker",
-    "description": "Portable Bluetooth speaker with powerful sound and long battery life.",
-    "image": "https://prince9559.github.io/jsonproject/pic/speak.jpg",
-    "new_price": 199,
-    "old_price": 390
-  },
+  "id": 1023,
+  "name": "English Speaking Book",
+  "description": "A helpful English speaking book designed to improve vocabulary, grammar, communication skills, and spoken English confidence.",
+  "image": "https://prince9559.github.io/jsonproject/pic/speak.jpg",
+  "new_price": 199,
+  "old_price": 390
+},
   {
     "id": 1024,
     "name": "T-Shirt",
