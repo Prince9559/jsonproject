@@ -3,7 +3,7 @@
     "id": 111,
     "name": "Men's Casual T-Shirt",
     "description": "Comfortable cotton t-shirt designed for everyday casual wear.",
-    "image": "pic/Men's.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Men's.jpg",
     "new_price": 230,
     "old_price": 300
   },
@@ -11,7 +11,7 @@
     "id": 112,
     "name": "Women's Floral Dress",
     "description": "Elegant floral dress perfect for casual outings and special occasions.",
-    "image": "pic/Women's.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Women's.jpg",
     "new_price": 430,
     "old_price": 500
   },
@@ -19,7 +19,7 @@
     "id": 113,
     "name": "Denim Jeans",
     "description": "Stylish denim jeans offering comfort, durability, and a modern fit.",
-    "image": "pic/Denim.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Denim.jpg",
     "new_price": 399,
     "old_price": 560
   },
@@ -27,7 +27,7 @@
     "id": 114,
     "name": "Formal Shirt",
     "description": "Classic formal shirt ideal for office wear, meetings, and events.",
-    "image": "pic/Formal.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Formal.jpg",
     "new_price": 199,
     "old_price": 390
   },
@@ -35,7 +35,7 @@
     "id": 115,
     "name": "Hooded Sweatshirt",
     "description": "Warm and comfortable hoodie perfect for cool weather and casual style.",
-    "image": "pic/Hooded.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Hooded.jpg",
     "new_price": 899,
     "old_price": 1000
   },
@@ -43,7 +43,7 @@
     "id": 116,
     "name": "Leather Jacket",
     "description": "Premium leather jacket with a fashionable design and lasting comfort.",
-    "image": "pic/Leather.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Leather.jpg",
     "new_price": 790,
     "old_price": 890
   },
@@ -59,7 +59,7 @@
     "id": 118,
     "name": "Sports Shoes",
     "description": "Lightweight sports shoes designed for running, training, and daily wear.",
-    "image": "pic/Sports.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Sports.jpg",
     "new_price": 880,
     "old_price": 980
   },
@@ -67,7 +67,7 @@
     "id": 119,
     "name": "Traditional Saree",
     "description": "Beautiful traditional saree suitable for festivals, weddings, and celebrations.",
-    "image": "pic/Traditional.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Traditional.jpg",
     "new_price": 280,
     "old_price": 490
   },
@@ -75,7 +75,7 @@
     "id": 200,
     "name": "Cargo Pants",
     "description": "Trendy cargo pants with multiple pockets for style and functionality.",
-    "image": "pic/Cargo.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Cargo.jpg",
     "new_price": 490,
     "old_price": 600
   }
