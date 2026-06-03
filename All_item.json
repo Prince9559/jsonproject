@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1005,
+    "name": "Chair",
+    "description": "Comfortable and durable chair suitable for home, office, and study use.",
+    "image": "https://prince9559.github.io/jsonproject/pic/chair.jpg",
+    "new_price": 9000,
+    "old_price": 12000
+  },
+  {
+    "id": 1006,
+    "name": "Chappal",
+    "description": "Lightweight and comfortable chappal designed for daily wear and outdoor use.",
+    "image": "https://prince9559.github.io/jsonproject/pic/chappal.jpg",
+    "new_price": 199,
+    "old_price": 290
+  },
+  {
+    "id": 1007,
+    "name": "Laptop Charger",
+    "description": "Reliable laptop charger with fast charging support and long-lasting performance.",
+    "image": "https://prince9559.github.io/jsonproject/pic/charger.jpg",
+    "new_price": 1200,
+    "old_price": 1500
+  },
+  {
+    "id": 1008,
+    "name": "Cap",
+    "description": "Stylish and comfortable cap perfect for casual wear and outdoor activities.",
+    "image": "https://prince9559.github.io/jsonproject/pic/cap.jpg",
+    "new_price": 90,
+    "old_price": 99
+  },
+  {
+    "id": 1009,
+    "name": "Bicycle",
+    "description": "Strong and lightweight bicycle ideal for daily commuting and fitness rides.",
+    "image": "https://prince9559.github.io/jsonproject/pic/bicycle.jpg",
+    "new_price": 3500,
+    "old_price": 4900
+  },
+  {
+    "id": 1010,
+    "name": "Bag",
+    "description": "Spacious and durable backpack with multiple compartments for everyday use.",
+    "image": "https://prince9559.github.io/jsonproject/pic/bag.jpg",
+    "new_price": 599,
+    "old_price": 899
+  },
+  {
+    "id": 1011,
+    "name": "LED Bulb",
+    "description": "Energy-efficient LED bulb with bright illumination and extended lifespan.",
+    "image": "https://prince9559.github.io/jsonproject/pic/balb.jpg",
+    "new_price": 99,
+    "old_price": 120
+  },
+  {
+    "id": 1012,
+    "name": "Earphone",
+    "description": "High-quality earphones with crystal-clear sound and deep bass experience.",
+    "image": "https://prince9559.github.io/jsonproject/pic/earphone.jpg",
+    "new_price": 90,
+    "old_price": 110
+  },
+  {
+    "id": 1013,
+    "name": "Guitar",
+    "description": "Acoustic guitar with excellent sound quality for beginners and professionals.",
+    "image": "https://prince9559.github.io/jsonproject/pic/guitars.jpg",
+    "new_price": 1900,
+    "old_price": 2100
+  },
+  {
+    "id": 1014,
+    "name": "Handkerchief",
+    "description": "Soft cotton handkerchief designed for comfort and daily use.",
+    "image": "https://prince9559.github.io/jsonproject/pic/hanckey.jpg",
+    "new_price": 55,
+    "old_price": 89
+  },
+  {
+    "id": 1015,
+    "name": "Men's Jeans",
+    "description": "Stylish and comfortable men's jeans made from premium-quality denim fabric.",
+    "image": "https://prince9559.github.io/jsonproject/pic/jeans.jpg",
+    "new_price": 1499,
+    "old_price": 1700
+  },
+  {
+    "id": 1016,
+    "name": "Keyboard",
+    "description": "Ergonomic keyboard with smooth keys for comfortable typing and gaming.",
+    "image": "https://prince9559.github.io/jsonproject/pic/keyboard.jpg",
+    "new_price": 300,
+    "old_price": 530
+  },
+  {
+    "id": 1017,
+    "name": "Lychee",
+    "description": "Fresh and juicy lychee packed with natural sweetness and nutrition.",
+    "image": "https://prince9559.github.io/jsonproject/pic/lechi.jpg",
+    "new_price": 190,
+    "old_price": 210
+  },
+  {
+    "id": 1018,
+    "name": "Mango",
+    "description": "Fresh and delicious mangoes rich in flavor, vitamins, and natural sweetness.",
+    "image": "https://prince9559.github.io/jsonproject/pic/mango.jpg",
+    "new_price": 60,
+    "old_price": 90
+  },
+  {
+    "id": 1019,
+    "name": "Monitor",
+    "description": "High-resolution monitor with vibrant display and sharp image quality.",
+    "image": "https://prince9559.github.io/jsonproject/pic/monitor.jpg",
+    "new_price": 7999,
+    "old_price": 9999
+  },
+  {
+    "id": 1020,
+    "name": "Mouse",
+    "description": "Responsive computer mouse with ergonomic design and precise tracking.",
+    "image": "https://prince9559.github.io/jsonproject/pic/mouser.jpg",
+    "new_price": 599,
+    "old_price": 899
+  },
+  {
+    "id": 1021,
+    "name": "Pendrive",
+    "description": "Portable USB pendrive with fast data transfer and secure storage.",
+    "image": "https://prince9559.github.io/jsonproject/pic/pendrive.jpg",
+    "new_price": 399,
+    "old_price": 490
+  },
+  {
+    "id": 1022,
+    "name": "Scooter",
+    "description": "Modern scooter offering smooth performance, comfort, and fuel efficiency.",
+    "image": "https://prince9559.github.io/jsonproject/pic/scooter.jpg",
+    "new_price": 40000,
+    "old_price": 42000
+  },
+  {
+    "id": 1023,
+    "name": "Speaker",
+    "description": "Portable Bluetooth speaker with powerful sound and long battery life.",
+    "image": "https://prince9559.github.io/jsonproject/pic/speak.jpg",
+    "new_price": 199,
+    "old_price": 390
+  },
+  {
+    "id": 1024,
+    "name": "T-Shirt",
+    "description": "Comfortable cotton T-shirt with a modern fit for everyday casual wear.",
+    "image": "https://prince9559.github.io/jsonproject/pic/t-shirt.jpg",
+    "new_price": 490,
+    "old_price": 589
+  }
+]
