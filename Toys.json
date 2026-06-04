@@ -3,7 +3,7 @@
     "id": 601,
     "name": "Remote Control Car",
     "description": "Exciting remote control car with smooth handling and high-speed performance.",
-    "image": "pic/Remote.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Remote.jpg",
     "new_price": 390,
     "old_price": 400
   },
@@ -11,7 +11,7 @@
     "id": 602,
     "name": "Toy Robot",
     "description": "Interactive toy robot with lights, sounds, and fun movements.",
-    "image": "pic/Robot.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Robot.jpg",
     "new_price": 599,
     "old_price": 930
   },
@@ -19,7 +19,7 @@
     "id": 603,
     "name": "Rubik's Cube",
     "description": "Classic puzzle cube that improves logic, memory, and problem-solving skills.",
-    "image": "pic/Rubik's.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Rubik's.jpg",
     "new_price": 330,
     "old_price": 800
   },
@@ -27,7 +27,7 @@
     "id": 604,
     "name": "Toy Train",
     "description": "Colorful toy train designed for endless fun and imaginative play.",
-    "image": "pic/Toy.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Toy.jpg",
     "new_price": 590,
     "old_price": 690
   },
@@ -35,7 +35,7 @@
     "id": 605,
     "name": "Teddy Bear",
     "description": "Soft and cuddly teddy bear, perfect for children and gifting.",
-    "image": "pic/Teddy.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Teddy.jpg",
     "new_price": 799,
     "old_price": 999
   },
@@ -43,7 +43,7 @@
     "id": 606,
     "name": "Doll",
     "description": "Beautiful doll with attractive design for creative role-playing games.",
-    "image": "pic/Doll.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Doll.jpg",
     "new_price": 999,
     "old_price": 1000
   },
