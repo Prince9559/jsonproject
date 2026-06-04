@@ -3,7 +3,7 @@
     "id": 801,
     "name": "Football",
     "description": "High-quality football designed for training and competitive matches.",
-    "image": "pic/101.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/101.jpg",
     "new_price": 2000,
     "old_price": 2020
   },
@@ -11,7 +11,7 @@
     "id": 802,
     "name": "Hockey Bat",
     "description": "Durable hockey bat made for excellent control and powerful shots.",
-    "image": "pic/102.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/102.jpg",
     "new_price": 1500,
     "old_price": 5220
   },
@@ -19,7 +19,7 @@
     "id": 803,
     "name": "Cricket Bat",
     "description": "Premium cricket bat crafted for powerful strokes and long-lasting performance.",
-    "image": "pic/103.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/103.jpg",
     "new_price": 500,
     "old_price": 700
   },
@@ -27,7 +27,7 @@
     "id": 804,
     "name": "Hockey Ball",
     "description": "Professional-grade hockey ball suitable for practice and tournaments.",
-    "image": "pic/104.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/104.jpg",
     "new_price": 120,
     "old_price": 300
   },
@@ -35,7 +35,7 @@
     "id": 805,
     "name": "Badminton Racket",
     "description": "Lightweight badminton racket offering speed, balance, and precision.",
-    "image": "pic/Badminton.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Badminton.jpg",
     "new_price": 900,
     "old_price": 1200
   },
@@ -43,7 +43,7 @@
     "id": 806,
     "name": "Baseball Bat",
     "description": "Strong and reliable baseball bat built for maximum hitting performance.",
-    "image": "pic/Baseball.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Baseball.jpg",
     "new_price": 9000,
     "old_price": 10000
   },
@@ -51,7 +51,7 @@
     "id": 807,
     "name": "Boxing Gloves",
     "description": "Comfortable boxing gloves with superior padding for training and sparring.",
-    "image": "https://prince9559.github.io/jsonproject/pic/Boxing.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Boxing_Gloves.jpg",
     "new_price": 900,
     "old_price": 990
   },
@@ -59,7 +59,7 @@
     "id": 808,
     "name": "Hockey Stick",
     "description": "Professional hockey stick designed for enhanced grip and ball control.",
-    "image": "https://prince9559.github.io/jsonproject/pic/Hokey.jpg",
+    "image": "https://prince9559.github.io/jsonproject/pic/Hockey.jpg",
     "new_price": 400,
     "old_price": 700
   },
