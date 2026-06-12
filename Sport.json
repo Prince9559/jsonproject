@@ -78,5 +78,22 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Volleyball.jpg",
     "new_price": 450,
     "old_price": 600
-  }
+  },
+  {
+  "id": 12,
+  "name": "Cricket Ball",
+  "description": "Durable leather cricket ball designed for practice and competitive matches, offering excellent grip and performance.",
+  "image": "https://prince9559.github.io/jsonproject/pic/cricket_ball.jpg",
+  "new_price": 300,
+  "old_price": 500
+},
+{
+  "id": 13,
+  "name": "Cricket Helmet",
+  "description": "Protective cricket helmet with a strong outer shell and comfortable padding for maximum safety during play.",
+  "image": "https://prince9559.github.io/jsonproject/pic/Cricket_Helmet.jpg",
+  "new_price": 900,
+  "old_price": 999
+}
+  
 ]
