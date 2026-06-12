@@ -79,4 +79,21 @@
     "new_price": 450,
     "old_price": 600
   }
+  ,
+  {
+  "id": 10,
+  "name": "Kids Book",
+  "description": "A fun and engaging storybook for kids filled with exciting adventures, colorful characters, and valuable life lessons.",
+  "image": "https://prince9559.github.io/jsonproject/pic/kids.jpg",
+  "new_price": 190,
+  "old_price": 490
+},
+{
+  "id": 11,
+  "name": "A Line and Mouse Story",
+  "description": "An entertaining story about a clever mouse and a magical line, teaching children creativity, friendship, and problem-solving skills.",
+  "image": "https://prince9559.github.io/jsonproject/pic/line.jpg",
+  "new_price": 40,
+  "old_price": 60
+}
 ]
