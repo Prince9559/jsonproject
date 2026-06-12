@@ -78,5 +78,21 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Building.jpg",
     "new_price": 55,
     "old_price": 89
+  },
+  {
+    "id": 16,
+    "name": "Car Twister Ride",
+    "description": "Creative building blocks set that encourages imagination and learning.",
+    "image": "https://prince9559.github.io/jsonproject/pic/Car_Twister_Ride.jpg",
+    "new_price": 999,
+    "old_price": 1200
+  },
+ {
+    "id": 17,
+    "name": "Kids Bike",
+    "description": "Creative building blocks set that encourages imagination and learning.",
+    "image": "https://prince9559.github.io/jsonproject/pic/kids_bike.jpg",
+    "new_price": 1600,
+    "old_price": 1800
   }
 ]
