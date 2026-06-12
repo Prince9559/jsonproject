@@ -78,5 +78,21 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Kettle.jpg",
     "new_price": 55,
     "old_price": 89
-  }
+  },
+  {
+  "id": 17,
+  "name": "Kadhai",
+  "description": "High-quality cooking kadhai made from durable material, perfect for frying, sautéing, and preparing delicious meals.",
+  "image": "https://prince9559.github.io/jsonproject/pic/Kadhai.jpg",
+  "new_price": 299,
+  "old_price": 499
+},
+{
+  "id": 18,
+  "name": "Cooker",
+  "description": "Strong and reliable pressure cooker designed for faster cooking while preserving the taste and nutrition of food.",
+  "image": "https://prince9559.github.io/jsonproject/pic/cooker.jpg",
+  "new_price": 999,
+  "old_price": 9999
+}
 ]
