@@ -78,5 +78,22 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Noodles.jpg",
     "new_price": 55,
     "old_price": 89
+  },
+  {
+    "id": 14,
+    "name": "Tandoori Chicken",
+    "description": "Soft and fluffy idlis served as a healthy South Indian breakfast.",
+    "image": "https://prince9559.github.io/jsonproject/pic/Tandoori_Chicken.jpg",
+    "new_price": 199,
+    "old_price": 399
+  },
+  {
+    "id": 15,
+    "name": "Gulab Jamun",
+    "description": "Flavorful stir-fried noodles tossed with fresh vegetables and sauces.",
+    "image": "https://prince9559.github.io/jsonproject/pic/Gulab_Jamun.jpg",
+    "new_price": 99,
+    "old_price": 199
   }
+  
 ]
