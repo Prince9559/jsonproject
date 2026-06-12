@@ -78,5 +78,22 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Motorola.jpg",
     "new_price": 90000,
     "old_price": 100000
-  }
+  },
+  {
+  "id": 23,
+  "name": "Realme 15X 5G Mobile",
+  "description": "Feature-rich 5G smartphone with a powerful processor, high-quality camera, and long-lasting battery for everyday performance.",
+  "image": "https://prince9559.github.io/jsonproject/pic/realme_m.jpg",
+  "new_price": 34000,
+  "old_price": 39000
+},
+{
+  "id": 24,
+  "name": "Samsung Keypad",
+  "description": "Reliable keypad mobile phone with a durable build, long battery life, and easy-to-use features for daily communication.",
+  "image": "https://prince9559.github.io/jsonproject/pic/sumsung_keypad.jpg",
+  "new_price": 1200,
+  "old_price": 1450
+}
+  
 ]
