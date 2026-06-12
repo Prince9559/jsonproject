@@ -78,5 +78,21 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Makeup.jpg",
     "new_price": 1000,
     "old_price": 1200
-  }
+  },
+  {
+  "id": 21,
+  "name": "Fair & Lovely",
+  "description": "Skin care cream formulated to help keep the skin moisturized, smooth, and radiant for everyday use.",
+  "image": "https://prince9559.github.io/jsonproject/pic/Fair_Lovely.jpg",
+  "new_price": 120,
+  "old_price": 190
+},
+{
+  "id": 22,
+  "name": "Fair And Handsome",
+  "description": "Men's grooming cream designed to provide hydration, freshness, and daily skin care protection.",
+  "image": "https://prince9559.github.io/jsonproject/pic/Fair_Handsome.jpg",
+  "new_price": 99,
+  "old_price": 110
+}
 ]
