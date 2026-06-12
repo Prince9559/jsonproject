@@ -78,5 +78,21 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Cargo.jpg",
     "new_price": 490,
     "old_price": 600
-  }
+  },
+  {
+  "id": 24,
+  "name": "Men's Jeans",
+  "description": "Comfortable and stylish men's jeans made from durable denim, perfect for casual and everyday wear.",
+  "image": "https://prince9559.github.io/jsonproject/pic/mens_jeans.jpg",
+  "new_price": 499,
+  "old_price": 590
+},
+{
+  "id": 25,
+  "name": "Women's Jeans",
+  "description": "Fashionable women's jeans with a modern fit, offering comfort and style for any occasion.",
+  "image": "https://prince9559.github.io/jsonproject/pic/woman_jeans.jpg",
+  "new_price": 899,
+  "old_price": 999
+}
 ]
