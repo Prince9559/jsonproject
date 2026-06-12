@@ -78,6 +78,22 @@
     "image": "https://prince9559.github.io/jsonproject/pic/Tablet.jpg",
     "new_price": 55,
     "old_price": 89
-  }
+  },
+{
+  "id": 19,
+  "name": "Ceiling Fans",
+  "description": "Energy-efficient ceiling fan with powerful airflow, silent operation, and modern design for home and office use.",
+  "image": "https://prince9559.github.io/jsonproject/pic/ceiling_fans.jpg",
+  "new_price": 1300,
+  "old_price": 1500
+},
+{
+  "id": 20,
+  "name": "Monitor",
+  "description": "High-resolution monitor with vibrant colors and sharp display, ideal for work, gaming, and entertainment.",
+  "image": "https://prince9559.github.io/jsonproject/pic/manitor.jpg",
+  "new_price": 9999,
+  "old_price": 12999
+}
 ]
 
