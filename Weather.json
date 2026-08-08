@@ -1,0 +1,46 @@
+[
+  {
+    "coord": {
+      "lon": 83,
+      "lat": 25.3333
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 32.04,
+      "feels_like": 37.48,
+      "temp_min": 32.04,
+      "temp_max": 32.04,
+      "pressure": 1001,
+      "humidity": 61,
+      "sea_level": 1001,
+      "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 5.48,
+      "deg": 97,
+      "gust": 6.77
+    },
+    "clouds": {
+      "all": 89
+    },
+    "dt": 1786160417,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1786147091,
+      "sunset": 1786194556
+    },
+    "timezone": 19800,
+    "id": 1253405,
+    "name": "Varanasi",
+    "cod": 200
+  }
+]
